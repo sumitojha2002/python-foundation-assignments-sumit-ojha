@@ -3,7 +3,7 @@
 ## Student Information
 
 - Name: Sumit Ojha
-- Cohort: Batch-16
+- Cohort: 16
 - Track Interest: Data Analytics / Data Science / Data Engineering
 
 ## About This Repository
