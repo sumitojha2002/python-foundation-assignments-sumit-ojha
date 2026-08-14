@@ -1,4 +1,4 @@
-# Day 2: Functions and Modules
+# Day 3: Functions and Modules
 
 ## Topics Covered
 
