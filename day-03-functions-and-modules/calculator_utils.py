@@ -19,9 +19,10 @@ def divide(a, b):
 def power(a,b):
     return a ** b
 
-# A module-level constant, usable after import
-VERSION = "1.0"
-
 
 def power(base, exponent):
     return base ** exponent
+
+# A module-level constant, usable after import
+VERSION = "1.0"
+
