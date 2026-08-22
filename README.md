@@ -16,3 +16,5 @@ This repository contains my assignments and practice exercises from the Python F
 - [x] Day 2: Collections 
 - [x] Day 3: Functions and Modules
 - [x] Day 4: File and Error Handling Logging
+- [ ] Day 5-6: Advance Python with OOP
+- [x] Day 7: Python for Data Engineering 
